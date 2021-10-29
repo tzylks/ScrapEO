@@ -59,9 +59,7 @@ function App() {
         <CssBaseline />
       
         <Landing />
-        <Search />
-
-
+       
       </ThemeProvider>
     </BrowserRouter>
   );
